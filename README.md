@@ -8,7 +8,7 @@ https://www.kaggle.com/aggarwalayush775/innoplex
 
 There are several modules in code:
 
-  Parameters Setting - Main parameters, change it for your convenience
+  Parameters Setting - tuned Parameters, change it for your convenience
 
   Preprocess - Sequence and labels' embedding
 
