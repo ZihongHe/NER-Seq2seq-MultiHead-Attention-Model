@@ -20,7 +20,7 @@ There are several modules in code:
 
   Seq2seq Model with Multi-head Attention - Model build-up and fitting
 
-  Evaluation - Visualisation of model fitting, and some evaluation index
+  Evaluation - Visualisation of model fitting, and some evaluation indices
   
   Prediction - Prediction on test set
 
