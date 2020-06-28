@@ -2,6 +2,8 @@ Name Entity Recognition model with Multi-head Attention Seq2Seq Model
 
 Running Environment: Colab, with GPU running time type
 
+Model framework is based on Tensorflow.Keras
+
 To run the code, you should firstly upload train.csv and test.csv onto colab platform.
 The relative dataset can be downloaded from:
 https://www.kaggle.com/aggarwalayush775/innoplex
