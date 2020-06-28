@@ -9,7 +9,7 @@ Classic Model Archietecture Reference: Seq2seq, Transformer
 To run the code, you should firstly upload train.csv and test.csv onto colab platform.
 The relative dataset can be downloaded from:
 https://www.kaggle.com/aggarwalayush775/innoplex
-This project is set up using this data, thanks for its author(s) and doctors' statements inside.
+The project is set up using this data, thanks for its author(s) and doctors' statements inside.
 
 If you would like to predict your own dataset, you should name your dataset as test.csv,
 and ensure your dataset's format is the same with the original test.csv
