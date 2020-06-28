@@ -8,7 +8,7 @@ https://www.kaggle.com/aggarwalayush775/innoplex
 
 If you would like to predict your own dataset, you should name your dataset as test.csv,
 and ensure the your dataset's format is the same with the original test.csv
-(Format: Second column for Doc id, third column for Sentence id, and forth column for a single word)
+(Format: Second column for Doc id, third column for Sentence id, and forth column for each single word)
 
 There are several modules in code:
 
