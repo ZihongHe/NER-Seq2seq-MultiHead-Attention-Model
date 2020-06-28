@@ -1,4 +1,4 @@
-Name Entity Recognition model with Multi-head Seq2Seq Model
+Name Entity Recognition model with Multi-head Attention Seq2Seq Model
 
 Running Environment: Colab, with GPU running time type
 
@@ -7,7 +7,7 @@ The Name Entity Recognise dataset can be downloaded from:
 https://www.kaggle.com/aggarwalayush775/innoplex
 
 If you would like to predict your own dataset, you should name your dataset as test.csv,
-and ensure the your dataset's format is the same with the original test.csv
+and ensure your dataset's format is the same with the original test.csv
 (Format: Second column for Doc id, third column for Sentence id, and forth column for each single word)
 
 There are several modules in code:
