@@ -24,3 +24,4 @@ There are several modules in code:
 
 Generated docs: train model, encoder model, decoder model, predicted testset result
 
+More details can be viewed in comment line descirptions and Visualisation parts in code
