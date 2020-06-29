@@ -1,4 +1,4 @@
-Name Entity Recognition model with Multi-head Attention Seq2Seq Model
+Name Entity Recognition model with Multi-head Attention Seq2Seq Model (for medical statements)
 
 Running Environment: Colab, with GPU running time type
 
@@ -9,7 +9,7 @@ Classic Model Archietecture Reference: Seq2seq, Transformer
 To run the code, you should firstly upload train.csv and test.csv onto colab platform.
 The relative dataset can be downloaded from:
 https://www.kaggle.com/aggarwalayush775/innoplex
-The project is set up using this data, thanks for its author(s).
+The project is set up using this data, thanks for its author(s) and the doctors' statements
 
 If you would like to predict your own dataset, you should name your dataset as test.csv,
 and ensure your dataset's format is the same with the original test.csv
